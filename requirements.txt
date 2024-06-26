@@ -1,0 +1,12 @@
+pandas
+matplotlib
+requests
+pillow
+streamlit
+plotly
+numpy
+pyhive
+psycopg2-binary
+openai==0.28
+streamlit_option_menu
+loguru
